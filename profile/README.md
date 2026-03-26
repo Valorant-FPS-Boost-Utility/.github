@@ -4,7 +4,7 @@
 
 ## Overview
 
-![valorant-fps-boost-utility-dashboard](https://avatars.mds.yandex.net/i?id=f9cc10f9687d9cb80018f1f25553664261fa75a0-5232580-images-thumbs&n=13)
+![valorant-fps-boost-utility-dashboard](https://avatars.mds.yandex.net/i?id=c85549fa539f5463865e999375b3d88b7a6ba3bb-12421362-images-thumbs&n=13)
 
 ## Features
 
